@@ -12,11 +12,11 @@
 <p align="center"> 🤗熟悉Windows、Linux、Mac、Android、IOS、WP、HarmonyOS等系统的开关机</p>
 <p align="center">🤔非节假日周一到周五白天在线，不接定制、不接仿站、不讲价、一切随缘</p>  
 <p align="center">
-  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/1.gif" alt="隔壁老李" style="max-width:100%;display:black"/>
-  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/2.gif" alt="隔壁老李" style="max-width:100%;display:black"/>
-  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/3.gif" alt="隔壁老李" style="max-width:100%;display:black"/>
-  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/4.gif" alt="隔壁老李" style="max-width:100%;display:black"/>
-  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/5.gif" alt="隔壁老李" style="max-width:100%;display:black"/>
-  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/6.gif" alt="隔壁老李" style="max-width:100%;display:black"/>
+  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/1.gif" alt="隔壁老李"/>
+  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/2.gif" alt="隔壁老李"/>
+  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/3.gif" alt="隔壁老李"/>
+  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/4.gif" alt="隔壁老李"/>
+  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/5.gif" alt="隔壁老李"/>
+  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/6.gif" alt="隔壁老李"/>
 </p>
 
