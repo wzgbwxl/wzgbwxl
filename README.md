@@ -23,6 +23,5 @@
   <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/3.gif" alt="隔壁老李"/>
   <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/4.gif" alt="隔壁老李"/>
   <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/5.gif" alt="隔壁老李"/>
-  <img src="https://github.com/wzgbwxl/wzgbwxl/blob/main/images/6.gif" alt="隔壁老李"/>
 </p>
 
