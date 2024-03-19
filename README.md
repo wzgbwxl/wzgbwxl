@@ -12,7 +12,7 @@
 <p>🏆曾被中国载人航天工程邀请研发低成本货物运输系统</p>
 <p>🏆曾被邀请参与国产航空母舰命名工作</p>
 <p>🏆曾担任著名歌手伍佰演唱会主唱</p>
-<p>😎设计狗但是改行了、苍蝇馆子厨子倒闭了、五音不全的乐器培训讲师、园林行业打工人、佛系ZBLOG主题模板开发者、倔强青铜</p>  
+<p>😎设计狗但是改行了、苍蝇馆子厨子倒闭了、五音不全的乐器培训讲师、园林行业打工人、倔强青铜</p>  
 <p>🤔擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载</p>
 <p>😏精通CSS、JavaScript、PHP、ASP、C、C++、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写</p>
 <p>🤗熟悉Windows、Linux、Mac、Android、IOS、WP、HarmonyOS等系统的开关机</p>
