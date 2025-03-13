@@ -1,5 +1,5 @@
 <p align="center">
- <img width="130px" src="https://avatars.githubusercontent.com/u/82791304" align="center" alt="隔壁老李" />
+ <img width="130px" src="https://avatars.githubusercontent.com/u/82791304" align="center" alt="隔壁老李" style="border-radius:50%"/>
  <h2 align="center">隔壁老李</h2>
  <p align="center">老司机，路子野，我住隔壁我姓李</p>
 </p>
